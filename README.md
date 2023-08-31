@@ -1,8 +1,12 @@
 # Olá 👋  sou o Douglas :boy:
 
+
+
 Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:. Me siga :sparkling_heart: para acompanhar meu desenvolvimento :books: TMJ!
 
-
+```
+Hi I'm Douglas. I'm starting my programming career, follow me to follow my development.
+```
 
  :anger:  :anger:   :anger:  :anger:   :anger:  :anger:  :anger:  :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:    :anger:    :anger:    :anger:    :anger:    :anger:   :anger:   :anger:    :anger:    :anger:   :anger:   :anger:    :anger:  :anger:   :anger:  :anger:   :anger:    :anger:  :anger:  :anger:   :anger:  :anger:  
 
