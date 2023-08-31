@@ -40,5 +40,6 @@ Under construction...
 
 ![Futuro-Dev](https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif)
 
-
+<a href="https://github.com/DouglasM1guel" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> </a>
 
