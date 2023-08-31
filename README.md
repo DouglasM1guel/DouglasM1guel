@@ -12,7 +12,13 @@ Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:
 Hi I'm Douglas. I'm starting my programming career, follow me to follow my development.
 ```
 
+[![DouglasMiguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasM1guel)](https://github.com/DouglasM1guel) 
+
+
+
  :anger:  :anger:   :anger:  :anger:   :anger:  :anger:  :anger:  :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:    :anger:    :anger:    :anger:    :anger:    :anger:   :anger:   :anger:    :anger:    :anger:   :anger:   :anger:    :anger:  :anger:   :anger:  :anger:   :anger:    :anger:  :anger:  :anger:   :anger:  :anger:  
+
+
 
 :x: NÂO CLIQUE NA FOTO!!!!!
 
@@ -33,4 +39,6 @@ Under construction...
 ```
 
 ![Futuro-Dev](https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif)
+
+
 
