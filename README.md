@@ -12,9 +12,11 @@ Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:
 Hi I'm Douglas. I'm starting my programming career, follow me to follow my development.
 ```
 
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziggyfreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@douglasmiguew) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ziggyfreat) 
+
 # 📊 GitHub Stats:
-
-
 
 
 
@@ -23,8 +25,6 @@ Hi I'm Douglas. I'm starting my programming career, follow me to follow my devel
 
 
  :anger:  :anger:   :anger:  :anger:   :anger:  :anger:  :anger:  :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:    :anger:    :anger:    :anger:    :anger:    :anger:   :anger:   :anger:    :anger:    :anger:   :anger:   :anger:    :anger:  :anger:   :anger:  :anger:   :anger:    :anger:  :anger:  :anger:   :anger:  :anger:  
-
-
 
 :x: NÂO CLIQUE NA FOTO!!!!!
 
@@ -38,6 +38,8 @@ Do not click on the photo !!!!!
 
 
 
+
+
   :pick: em construção...
 
 ```
@@ -45,9 +47,6 @@ Under construction...
 ```
 
 ![Futuro-Dev](https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif)
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziggyfreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@douglasmiguew) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ziggyfreat) 
 
 
 
