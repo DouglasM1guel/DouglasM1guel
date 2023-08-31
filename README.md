@@ -6,7 +6,7 @@ Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:
 
  :anger:  :anger:   :anger:  :anger:   :anger:  :anger:  :anger:  :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:    :anger:    :anger:    :anger:    :anger:    :anger:   :anger:   :anger:    :anger:    :anger:   :anger:   :anger:    :anger:  :anger:   :anger:  :anger:   :anger:    :anger:  :anger:  :anger:   :anger:  :anger: 
 
-https://user-images.githubusercontent.com/662636/105124618-55b9df80-5a8f-11eb-8ad5-0e18c17c827d.gif
+[![Futuro-Dev](https://im.ezgif.com/tmp/ezgif-1-33a0cbc97f.gif)](douglasmiguel@msn.com)
 
 
 
