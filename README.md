@@ -12,4 +12,4 @@ Olá :raised_back_of_hand: sou o Douglas :boy:, estou iniciando :information_sou
 
 
 
-  
+  :pick: em construção...
