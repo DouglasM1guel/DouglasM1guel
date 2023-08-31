@@ -12,7 +12,13 @@ Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:
 Hi I'm Douglas. I'm starting my programming career, follow me to follow my development.
 ```
 
-[![DouglasMiguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasM1guel)](https://github.com/DouglasM1guel) 
+# 📊 GitHub Stats:
+
+
+
+
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DouglasM1guel&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasM1guel&theme=neon&hide_border=false"  width="400px" />
 
 
 
