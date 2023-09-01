@@ -12,7 +12,7 @@ Estou iniciando :information_source: a minha carreira na PROGRAMAÇÂO:computer:
 Hi I'm Douglas. I'm starting my programming career, follow me to follow my development.
 ```
 
-# 🌐 Socials:
+# Redes Socials:![](https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziggyfreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@douglasmiguew) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ziggyfreat) 
 
