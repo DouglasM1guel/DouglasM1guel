@@ -21,12 +21,8 @@ Hi I'm Douglas. I'm starting my programming career, follow me to follow my devel
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziggyfreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-nunes-5b927728b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@douglasmiguew) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ziggyfreat) 
 
 # 📊 GitHub Stats:
-
-
-
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DouglasM1guel&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasM1guel&theme=neon&hide_border=false"  width="400px" />
-
-
+![](https://github-readme-stats.vercel.app/api?username=DouglasM1guel&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DouglasM1guel&theme=midnight-purple&hide_border=true)<br/>
 
  :anger:  :anger:   :anger:  :anger:   :anger:  :anger:  :anger:  :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:   :anger:    :anger:    :anger:    :anger:    :anger:    :anger:   :anger:   :anger:    :anger:    :anger:   :anger:   :anger:    :anger:  :anger:   :anger:  :anger:   :anger:    :anger:  :anger:  :anger:   :anger:  :anger:  
 
@@ -36,19 +32,13 @@ Hi I'm Douglas. I'm starting my programming career, follow me to follow my devel
 Do not click on the photo !!!!!
 ```
 
-[![Futuro-Dev](https://im4.ezgif.com/tmp/ezgif-4-75a192177d.gif)](https://gerarmemes.s3.us-east-2.amazonaws.com/memes/5c6ad96a.webp)
+[![Futuro-Dev](https://im4.ezgif.com/tmp/ezgif-4-36c995b308.png)](https://gerarmemes.s3.us-east-2.amazonaws.com/memes/5c6ad96a.webp)
 
 
 
+😂 Random Dev Meme
 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 
-​       [![GITHUB](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasM1guel)       :pick: em construção...
-
-```
-GitHub Under construction...
-```
-
-![Futuro-Dev](https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif) 
-
-
+   [![GITHUB](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasM1guel)       :pick: em construção...
 
