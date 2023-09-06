@@ -4,7 +4,11 @@
 
 # Olá 👋  sou o Douglas :boy:
 
-![](https://readme-typing-svg.demolab.com/?lines=Ola%20Sou%20o%20Douglas%20Expert%20em%20Git%20-%20GitHub;Experiencia%20Lógica%20/%20Algoritmo;%20Me%20Siga%20Vamos codar%20news%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=%22Ola+Sou+o+Douglas%22;Expert+em+Git+e+GitHub;Experi%C3%AAncia+em+L%C3%B3gica+e+Algoritmo;Me+siga+vamos+codar+news+things;by+douglasmiguel%40msn.com)
+
+
 
 # 💻 Tech Stack: 
 
