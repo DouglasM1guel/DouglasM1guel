@@ -32,7 +32,7 @@
 Do not click on the photo !!!!!
 ```
 
-[![Futuro-Dev](https://im4.ezgif.com/tmp/ezgif-4-36c995b308.png)](https://gerarmemes.s3.us-east-2.amazonaws.com/memes/5c6ad96a.webp)
+[![Futuro-Dev](https://gerarmemes.s3.us-east-2.amazonaws.com/memes/832ca8ea.webp)](https://gerarmemes.s3.us-east-2.amazonaws.com/memes/5c6ad96a.webp)
 
 
 
